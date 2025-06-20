@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erika</h1>
-<h3 align="center">A passionate development student from Irun</h3>
+<h3 align="center">A Multiplatform Applications Development student from Irun</h3>
 
 - 🌱 I’m currently learning **Python, React, Linux virtual machines (VM)**
 
